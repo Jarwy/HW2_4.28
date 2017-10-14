@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+e:\北科大\程式語言\homework\hw\hw2\106360229_許家維\4.28\source\main.c(12): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  e:\北科大\程式語言\homework\hw\hw2\106360229_許家維\4.28\source\main.c(12): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  e:\北科大\程式語言\homework\hw\hw2\106360229_許家維\4.28\source\main.c(12): note: 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+  e:\北科大\程式語言\homework\hw\hw2\106360229_許家維\4.28\source\main.c(12): note: 此引數可用為緩衝區大小
+  HW2_4.28.vcxproj -> E:\北科大\程式語言\Homework\HW\HW2\106360229_許家維\4.28\HW2_4.28\HW2_4.28\..\..\temp\debug\HW2_4.28.exe
+  HW2_4.28.vcxproj -> ..\..\temp\debug\HW2_4.28.pdb (Partial PDB)
